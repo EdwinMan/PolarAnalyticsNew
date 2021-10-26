@@ -1,4 +1,4 @@
-# PolarAnalyticsNew
+# PolarAnalytics
 
 1- Clone the folder to your desired path.
 
